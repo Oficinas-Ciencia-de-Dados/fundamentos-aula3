@@ -2,7 +2,7 @@
 
 ⸻
 
-##Exercícios Práticos – Aula 3 (Python)
+## Exercícios Práticos – Aula 3 (Python)
 
 Conteudos vistos nos aula de hoje:
 	•	Listas
@@ -19,7 +19,7 @@ Importante: Não coloque a resposta diretamente. Desenvolva o raciocínio passo 
 
 ⸻
 
-###Exercício 1 – Analisador de Lista de Compras
+### Exercício 1 – Analisador de Lista de Compras
 
 Crie um programa que:
 	1.	Crie uma lista contendo alguns alimentos (por exemplo: frutas ou itens de mercado).
@@ -38,7 +38,7 @@ Dicas sutis:
 
 ⸻
 
-###Exercício 2 – Contador de Vogais
+### Exercício 2 – Contador de Vogais
 
 Crie um programa que:
 	1.	Peça ao usuário para digitar uma palavra.
@@ -56,7 +56,7 @@ Dicas sutis:
 
 ⸻
 
-###Exercício 3 – Sistema de Senha com Tentativas
+### Exercício 3 – Sistema de Senha com Tentativas
 
 Crie um programa que:
 	1.	Defina uma senha correta dentro do código.
