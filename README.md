@@ -1,4 +1,4 @@
-# Fundamentos de Ciência de Daodos - Aula 03
+# Fundamentos de Ciência de Dados - Aula 03
 
 ⸻
 
